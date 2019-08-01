@@ -22,4 +22,4 @@ You can choose a file from your pc or a URL, make your choice and click the  Sca
 
 After the scan is done , you will get the results in a txt file and also on the GUI window like that:
 
-![alt text](https://github.com/IdanAsh14/Virus-Detection/blob/master/GUIentrance.png)
+![alt text](https://github.com/IdanAsh14/Virus-Detection/blob/master/GUIinside.png)
